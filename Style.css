@@ -1,0 +1,27 @@
+Body {
+  font-size: large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr {
+  background-color: aqua;
+}
+
+h1 {
+
+}
+
+.worktable {
+  border: 0cm;
+}
+
+.help {
+  text-decoration: line-through;
+  text-decoration-color: red;
+  -webkit-text-fill-color: gray;
+}
+
+.first_list {
+  list-style-type: disc;
+}
+
